@@ -24,3 +24,11 @@ The repository contains a proprietary Packet Tracer binary rather than text-base
 
 - Adam El Akkaoui
 - Mohammed Zaidouh
+
+## Academic artefacts
+
+- [French academic case study (DOCX)](docs/academic-case-study-fr.docx). The nearby `TP_VLAN.pdf` is course material, not an authored report. No presentation or video was found.
+
+## Testing and limitations
+
+The Packet Tracer file and topology image are readable. Cisco Packet Tracer was unavailable, so device configurations, connectivity and VLAN behaviour were not independently executed.
