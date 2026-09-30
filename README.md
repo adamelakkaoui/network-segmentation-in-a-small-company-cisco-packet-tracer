@@ -12,14 +12,6 @@ Academic Cisco Packet Tracer case study for logically segmenting a fictional 30-
 
 Install Cisco Packet Tracer, open `network-segmentation.pkt`, inspect the device configurations, and use Simulation mode plus `ping`/traceroute tests to validate connectivity and isolation.
 
-## Verification status
-
-The file signature and inclusion were checked, and the original topology screenshot was reviewed. Packet Tracer is not installed in the preparation environment, so VLAN IDs, device credentials, addressing, trunking, routing, and end-to-end reachability were **not independently executed or verified**. No passwords or configuration exports are included in this repository.
-
-## Limitations
-
-The repository contains a proprietary Packet Tracer binary rather than text-based device configurations. Reproducible validation requires the Cisco application and a manual configuration review.
-
 ## Authors
 
 - Adam El Akkaoui
@@ -27,8 +19,11 @@ The repository contains a proprietary Packet Tracer binary rather than text-base
 
 ## Academic artefacts
 
-- [French academic case study (DOCX)](docs/academic-case-study-fr.docx). The nearby `TP_VLAN.pdf` is course material, not an authored report. No presentation or video was found.
+- [French academic case study (PDF)](docs/academic-case-study-fr.pdf)
+- [Editable French academic case study (DOCX)](docs/academic-case-study-fr.docx)
+
+The nearby `TP_VLAN.pdf` is course material, not an authored report. No presentation or video was found.
 
 ## Testing and limitations
 
-The Packet Tracer file and topology image are readable. Cisco Packet Tracer was unavailable, so device configurations, connectivity and VLAN behaviour were not independently executed.
+The Packet Tracer signature, tracked file and original topology screenshot were checked. Cisco Packet Tracer was unavailable, so VLAN IDs, credentials, addressing, trunks, routing, reachability and isolation were not independently executed. The proprietary binary contains no separately reviewable text configuration; reproducible validation requires Packet Tracer and manual inspection. No passwords or configuration exports are included.
