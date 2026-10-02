@@ -19,7 +19,6 @@ Install Cisco Packet Tracer and open `network-segmentation.pkt` to view the proj
 
 ## Academic artefacts
 
-- [French academic case study (PDF)](docs/academic-case-study-fr.pdf)
 - [Editable French academic case study (DOCX)](docs/academic-case-study-fr.docx)
 
 ## Project objectives
