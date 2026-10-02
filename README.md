@@ -1,5 +1,8 @@
 # Network Segmentation in a Small Company – Cisco Packet Tracer
 
+![NETWORK SYSTEMS — Departmental segmentation with VLANs](assets/portfolio-banner.svg)
+
+
 Academic Cisco Packet Tracer case study for logically segmenting a fictional 30-employee company network by department.
 
 ![Packet Tracer topology](images/topology.jpg)
